@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://blog.csdn.net/2301_80163888"><b>CSDN 博客 ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/panderBother?tab=repositories">所有项目 ↗</a>
+  <a href="mailto:dyzbear88@gmail.com">dyzbear88@gmail.com</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:dyzbear88@gmail.com">联系我 ↗</a>
+  15603776449
 </p>
 
 <br />
@@ -25,6 +25,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p><a href="https://github.com/panderBother/KnowMind"><img src="./assets/knowmind-cover.png" width="100%" alt="KnowMind · AI Knowledge Base — 橙色玻璃书本与知识文档" /></a></p>
       <sub>AI · KNOWLEDGE</sub>
       <h3><a href="https://github.com/panderBother/KnowMind">KnowMind ↗</a></h3>
       <p><b>让自己的知识，成为可对话的资料库。</b></p>
@@ -32,6 +33,7 @@
       <p><code>React</code> <code>FastAPI</code> <code>RAG</code> <code>MCP</code></p>
     </td>
     <td width="50%" valign="top">
+      <p><a href="https://github.com/panderBother/NexusEdu"><img src="./assets/nexusedu-cover.png" width="100%" alt="NexusEdu · Realtime Learning — 玻璃播放标志与实时音视频" /></a></p>
       <sub>WEB · REALTIME</sub>
       <h3><a href="https://github.com/panderBother/NexusEdu">NexusEdu ↗</a></h3>
       <p><b>让直播与弹幕，流畅地发生。</b></p>
@@ -41,6 +43,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p><a href="https://github.com/panderBother/TrashLens"><img src="./assets/trashlens-cover.png" width="100%" alt="TrashLens · Vision for Recycling — 视觉镜头与可回收物" /></a></p>
       <sub>AI · COMPUTER VISION</sub>
       <h3><a href="https://github.com/panderBother/TrashLens">TrashLens ↗</a></h3>
       <p><b>用图像识别，理解垃圾分类。</b></p>
@@ -48,6 +51,7 @@
       <p><code>Python</code> <code>YOLOv8</code> <code>Flask</code> <code>Vue 3</code></p>
     </td>
     <td width="50%" valign="top">
+      <p><a href="https://github.com/panderBother/vue-pander-rabbit"><img src="./assets/rabbit-cover.png" width="100%" alt="小兔鲜 · Fresh Commerce — 兔耳购物袋与生鲜绿叶" /></a></p>
       <sub>WEB · COMMERCE</sub>
       <h3><a href="https://github.com/panderBother/vue-pander-rabbit">小兔鲜电商 ↗</a></h3>
       <p><b>在业务实践里，打磨前端基础。</b></p>
