@@ -51,12 +51,12 @@
       <p><code>Python</code> <code>YOLOv8</code> <code>Flask</code> <code>Vue 3</code></p>
     </td>
     <td width="50%" valign="top">
-      <p><a href="https://github.com/panderBother/vue-pander-rabbit"><img src="./assets/rabbit-cover.png" width="100%" alt="小兔鲜 · Fresh Commerce — 兔耳购物袋与生鲜绿叶" /></a></p>
-      <sub>WEB · COMMERCE</sub>
-      <h3><a href="https://github.com/panderBother/vue-pander-rabbit">小兔鲜电商 ↗</a></h3>
-      <p><b>在业务实践里，打磨前端基础。</b></p>
-      <p>基于 Vue 3 的小型电商项目，实践组件开发、Pinia 状态管理与 Vue Router 路由组织。</p>
-      <p><code>Vue 3</code> <code>Pinia</code> <code>Vue Router</code></p>
+      <p><a href="https://github.com/panderBother/lumyvra"><img src="./assets/lumyvra-cover.png" width="100%" alt="Lumyvra · AI Music Studio — 橙色玻璃唱片与声波" /></a></p>
+      <sub>AI · MUSIC CREATION</sub>
+      <h3><a href="https://github.com/panderBother/lumyvra">Lumyvra ↗</a></h3>
+      <p><b>让一句灵感，成为自己的音乐。</b></p>
+      <p>AI 音乐创作平台，支持文生音乐、歌词生音乐与文生歌词，串联生成、试听、版本管理和作品分享。</p>
+      <p><code>Next.js</code> <code>Go</code> <code>FastAPI</code> <code>ACE-Step</code></p>
     </td>
   </tr>
 </table>
